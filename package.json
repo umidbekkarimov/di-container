@@ -7,7 +7,7 @@
   "author": "Umidbek Karimov <uma.karimov@gmail.com>",
   "description": "Tiny ES6-friendly dependency injection container",
   "engines": {
-    "node": "8"
+    "node": ">=8.0.0"
   },
   "scripts": {
     "pub": "pika-pack publish",
