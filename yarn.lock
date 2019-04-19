@@ -881,7 +881,7 @@
     strip-bom "^3.0.0"
     validate-npm-package-license "^3.0.4"
 
-"@pika/plugin-build-node@^0.3.14":
+"@pika/plugin-build-node@^0.3.15":
   version "0.3.14"
   resolved "https://registry.yarnpkg.com/@pika/plugin-build-node/-/plugin-build-node-0.3.15.tgz#9389a9519cab33927ba6d2f86b298473e0693239"
   integrity sha512-iB99JwXs3BNTuMikHnzhUI1d3x6JGBxFcGSI2yFSroqP8sFOr57VItWfB2q09QiQ2EKqtNX9sAuUTS8Q0HdWjw==
@@ -907,7 +907,7 @@
     mkdirp "^0.5.1"
     typescript "^3.0.0"
 
-"@pika/plugin-build-web@^0.3.14":
+"@pika/plugin-build-web@^0.3.15":
   version "0.3.14"
   resolved "https://registry.yarnpkg.com/@pika/plugin-build-web/-/plugin-build-web-0.3.15.tgz#e7b7ac368d66cb0e7307fb1d4abbdbac2dc1d19f"
   integrity sha512-vKTP9xNPCOpwRY97XvoNxLEU3ZhjgNLex7E33AI6As6Ut5ILSIeQtu4PmvGxLs/movfcMijW0CXqhf+aEUywYQ==
@@ -921,7 +921,7 @@
     rollup "^1.1.0"
     rollup-plugin-babel "^4.3.0"
 
-"@pika/plugin-standard-pkg@^0.3.14":
+"@pika/plugin-standard-pkg@^0.3.15":
   version "0.3.14"
   resolved "https://registry.yarnpkg.com/@pika/plugin-standard-pkg/-/plugin-standard-pkg-0.3.15.tgz#b39713eaa569ad0c684240eed45d8cf1cc8fd8b0"
   integrity sha512-Ojk/8Eol0Uhb3gDI4FMm/vdwFzwy2pjAgmAZLuUDM6zR/H3ma29xzecdGu0r9C1SmjYjNv6t6HpIpR9tYdu9UQ==
