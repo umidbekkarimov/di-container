@@ -18,16 +18,12 @@ export interface InjectableFactory<T = unknown> {
 
 export type InjectableKey = string | number;
 
-function formatKey(
-  key: InjectableKey | InjectableClass | InjectableFactory
-): string {
-  return typeof key === "function" ? key.name : String(key);
+function formatKey(key: InjectableClass | InjectableFactory): string {
+  return key.name;
 }
 
 export class Container {
-  private resolveStack?: Set<
-    InjectableKey | InjectableClass | InjectableFactory
-  >;
+  private resolveStack?: Set<InjectableClass | InjectableFactory>;
 
   protected values: Map<unknown, unknown>;
 
