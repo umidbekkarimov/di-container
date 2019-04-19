@@ -5,6 +5,7 @@
   "main": "index.js",
   "repository": "git@github.com:umidbekkarimov/di-container.git",
   "author": "Umidbek Karimov <uma.karimov@gmail.com>",
+  "description": "Tiny ES6-friendly dependency injection container",
   "scripts": {
     "pub": "pika-pack publish",
     "build": "pika-pack build --publish",
