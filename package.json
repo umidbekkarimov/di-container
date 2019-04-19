@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "name": "create-di-container",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "main": "index.js",
   "repository": "git@github.com:umidbekkarimov/di-container.git",
   "author": "Umidbek Karimov <uma.karimov@gmail.com>",
