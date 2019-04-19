@@ -2,6 +2,14 @@
 
 > Tiny universal ES-friendly dependency injection tool
 
+[![npm version](https://img.shields.io/npm/v/create-di-container.svg)](https://npmjs.com/create-di-container)
+[![npm minzipped size](https://img.shields.io/bundlephobia/minzip/create-di-container.svg)](https://bundlephobia.com/result?p=create-di-container)
+[![npm type definitions](https://img.shields.io/npm/types/create-di-container.svg)](https://npmjs.com/create-di-container)
+[![npm downloads](https://img.shields.io/npm/dm/create-di-container.svg)](https://npmjs.com/create-di-container)
+[![Build Status](https://travis-ci.com/umidbekkarimov/di-container.svg?branch=master)](https://travis-ci.com/umidbekkarimov/di-container)
+[![codecov](https://codecov.io/gh/umidbekkarimov/di-container/branch/master/graph/badge.svg)](https://codecov.io/gh/umidbekkarimov/di-container)
+[![npm license](https://img.shields.io/npm/l/create-di-container.svg)](https://npmjs.com/create-di-container)
+
 #### Installation
 
 ```bash
