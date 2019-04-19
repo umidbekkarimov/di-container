@@ -6,11 +6,16 @@
   "repository": "git@github.com:umidbekkarimov/di-container.git",
   "author": "Umidbek Karimov <uma.karimov@gmail.com>",
   "description": "Tiny ES6-friendly dependency injection container",
+  "engines": {
+    "node": "8"
+  },
   "scripts": {
     "pub": "pika-pack publish",
     "build": "pika-pack build --publish",
+    "lint": "cg lint",
     "test": "jest",
-    "cover": "jest --coverage"
+    "cover": "jest --coverage",
+    "ci": "yarn lint && yarn tsc && yarn cover"
   },
   "@pika/pack": {
     "pipeline": [
